@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
 segundo cambio desde main
-linea original
+=======
+cambios desde la rama dev
+>>>>>>> developer
+
