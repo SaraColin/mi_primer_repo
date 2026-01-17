@@ -1,6 +1,1 @@
-<<<<<<< HEAD
 segundo cambio desde main
-=======
-original line
-
->>>>>>> saraaa
